@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://www.soumyadsanyal.com/sitemap.xml
+Sitemap: https://www.soumyadsanyal.com/test_lift/sitemap.xml
