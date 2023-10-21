@@ -6,6 +6,6 @@ I'm Soumya, an engineering and data leader.
 
 <!-- I write to think, and to learn. -->
 
-On this site, I work through hypotheses on engineering, data and leadership.
+On this site, I work through hypotheses on [engineering]({{< ref "/engineering" >}}), data and leadership.
 
 <!-- Occasionally, I also write down thoughts about my journey learning Olympic lifting. -->
